@@ -1,26 +1,82 @@
 [
 {
-    "id": 1,
-    "Name": "Home",
-    "Category": "Interface",
-    "Style": "Outline",
-    "Type": "Regular",
-    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.9996 13.0003L14.151 12.6109C14.3724 12.5838 14.5784 12.4834 14.7362 12.3257L20.3697 6.69431C21.2151 5.84794 21.2151 4.47678 20.3697 3.63042V3.63042C19.9637 3.22427 19.4129 2.99609 18.8385 2.99609C18.2642 2.99609 17.7134 3.22427 17.3074 3.63042L11.7449 9.19571C11.5917 9.34895 11.4924 9.54774 11.4618 9.76225L10.9996 13.0003Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M21.0037 11.9998C21.0037 16.9725 16.9726 21.0036 12 21.0036C7.02737 21.0036 2.99625 16.9725 2.99625 11.9998C2.99625 7.02721 7.02737 2.99609 12 2.99609\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
-},
-{
-    "id": 3,
-    "Name": "Search",
-    "Category": "AA",
-    "Style": "Line",
-    "Type": "Solid",
-    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.5429 21.0041H8.45709C7.2809 21.0041 6.303 20.0986 6.21279 18.9258L5.24719 6.37305H18.7528L17.7872 18.9258C17.697 20.0986 16.7191 21.0041 15.5429 21.0041V21.0041Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M20.0033 6.37326H3.99667\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.18633 2.99609H14.8137C15.4353 2.99609 15.9391 3.49998 15.9391 4.12156V6.3725H8.06086V4.12156C8.06086 3.49998 8.56475 2.99609 9.18633 2.99609Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M13.9696 10.875V16.5023\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M10.0304 10.875V16.5023\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
-},
-{
     "id": 34,
-    "Name": "Setting-Checkmark",
-    "Category": "B",
-    "Style": "Outline",
+    "Name": "body-care-cream",
+    "Category": "Beauty",
+    "Style": "Light",
     "Type": "Regular",
-    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.8183 13.797L19.8672 13.7847C20.5352 13.6177 21.0037 13.0175 21.0037 12.3289V11.6704C21.0037 10.9819 20.5351 10.3816 19.8671 10.2146L19.8181 10.2023C19.3088 10.0747 18.8901 9.71341 18.6893 9.22829C18.4885 8.74318 18.5294 8.19162 18.7996 7.74143L18.8202 7.7071C19.179 7.11565 19.0878 6.3557 18.5993 5.86591L18.1337 5.4003C17.6468 4.91339 16.891 4.82034 16.3006 5.17459L16.2572 5.2006C15.8071 5.47068 15.2556 5.51149 14.7706 5.31059C14.2856 5.1097 13.9244 4.69087 13.7971 4.18159L13.7849 4.1327C13.6178 3.46469 13.0176 2.99609 12.329 2.99609H11.6706C10.982 2.99609 10.3818 3.4647 10.2147 4.13272L10.2025 4.18174C10.0749 4.69102 9.71355 5.10975 9.22844 5.31054C8.74332 5.51132 8.19176 5.47042 7.74156 5.20028L7.70721 5.17968C7.11577 4.82088 6.35582 4.91205 5.86603 5.40056L5.40043 5.86616C4.9135 6.35297 4.82041 7.10872 5.17463 7.69915L5.20025 7.74187C5.4704 8.19207 5.51131 8.74362 5.31053 9.22875C5.10975 9.71387 4.69103 10.0752 4.18174 10.2028L4.13288 10.215C3.46489 10.382 2.99625 10.9822 2.99625 11.6708V12.3294C2.99625 13.0178 3.46463 13.618 4.13251 13.785L4.18105 13.7971C4.69041 13.9244 5.10934 14.2855 5.3104 14.7705C5.51147 15.2555 5.47088 15.8071 5.20099 16.2574L5.17505 16.3006C4.82081 16.8911 4.91385 17.6468 5.40071 18.1337L5.86636 18.5994C6.35307 19.0863 7.10871 19.1794 7.69907 18.8252L7.74197 18.7995C8.19217 18.5293 8.74373 18.4884 9.22886 18.6892C9.71398 18.89 10.0753 19.3087 10.2029 19.818L10.2152 19.8669C10.3822 20.5349 10.9824 21.0036 11.6709 21.0036H12.3295C13.0179 21.0036 13.6181 20.5352 13.7851 19.8673L13.7972 19.8187C13.9245 19.3094 14.2856 18.8904 14.7706 18.6894C15.2556 18.4883 15.8072 18.5289 16.2575 18.7988L16.3008 18.8248C16.8912 19.179 17.647 19.086 18.1339 18.5991L18.5996 18.1335C19.0864 17.6467 19.1795 16.8911 18.8254 16.3008L18.7996 16.2579C18.5295 15.8077 18.4886 15.2561 18.6894 14.771C18.8902 14.2859 19.309 13.9245 19.8183 13.797Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M14.0435 10.7236L11.4891 13.278L9.95782 11.7454\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <rect x=\"4.99707\" y=\"6.99792\" width=\"14.0058\" height=\"4.00167\" rx=\"1.5\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.24884 6.99792C10.3743 6.99792 11.4998 5.87245 11.4998 2.49605C16.0017 2.49605 16.0017 6.99792 16.0017 6.99792\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.49771 10.9996H17.5023C19.1598 10.9996 20.5035 12.3433 20.5035 14.0008V17.0021C20.5035 19.2121 18.7119 21.0038 16.5019 21.0038H7.49813C5.28807 21.0038 3.49646 19.2121 3.49646 17.0021V14.0008C3.49646 12.3433 4.84017 10.9996 6.49771 10.9996Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <rect x=\"7.49811\" y=\"14.501\" width=\"9.00375\" height=\"3.00125\" rx=\"0.833\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 71,
+    "Name": "make-up-lipstick-open",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.99707 10.3823H8.99874C9.55126 10.3823 9.99916 10.8302 9.99916 11.3827V19.0029C9.99916 20.108 9.10335 21.0038 7.99832 21.0038H5.99749C4.89246 21.0038 3.99666 20.108 3.99666 19.0029V11.3827C3.99666 10.8302 4.44456 10.3823 4.99707 10.3823Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M4.99709 10.3823V4.99709C4.99729 4.61826 5.21145 4.27205 5.55032 4.10272L7.55115 3.1023C7.86118 2.94738 8.22931 2.96396 8.52416 3.14612C8.81901 3.32829 8.99857 3.65009 8.99875 3.99667V10.3813\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.0017 12H18.0025C19.1075 12 20.0033 12.8958 20.0033 14.0008V20.0033C20.0033 20.5558 19.5554 21.0037 19.0029 21.0037H15.0012C14.4487 21.0037 14.0008 20.5558 14.0008 20.0033V14.0008C14.0008 12.8958 14.8966 12 16.0017 12Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.99916 15.0013H3.99666\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 72,
+    "Name": "make-up-brush-square",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <rect x=\"2.99625\" y=\"2.99625\" width=\"18.0075\" height=\"18.0075\" rx=\"4\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.99791 10.9996V15.5015C6.99791 16.3302 7.66976 17.0021 8.49853 17.0021V17.0021C9.3273 17.0021 9.99916 16.3302 9.99916 15.5015V10.9996L10.7395 9.02576C10.9124 8.5648 10.8483 8.04832 10.5678 7.64368C10.2873 7.23903 9.82622 6.99771 9.33388 6.99792H7.66318C7.17084 6.99771 6.70972 7.23903 6.42924 7.64368C6.14876 8.04832 6.08462 8.5648 6.2576 9.02576L6.99791 10.9996Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.99916 10.9996H6.99791\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M6.99791 10.9996H9.99916\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <rect x=\"13.5006\" y=\"6.99792\" width=\"4.00167\" height=\"10.0042\" rx=\"1\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M13.5006 10.3323H17.5023\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M17.5023 13.6677H13.5006\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 73,
+    "Name": "soap-drop",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M15.0013 2.99625H9.8271C9.29649 2.99637 8.78765 3.20724 8.41251 3.5825L7.99834 3.99667\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.501 8.99876H9.49896V6.99792C9.49896 6.44541 9.94686 5.99751 10.4994 5.99751H13.5006C14.0531 5.99751 14.501 6.44541 14.501 6.99792V8.99876Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M18.0025 12.7143C18.0025 11.7289 17.611 10.7838 16.9142 10.087C16.2174 9.39021 15.2724 8.99875 14.287 8.99875H9.71305C7.66101 8.99875 5.99751 10.6623 5.99751 12.7143V19.0029C5.99751 20.1079 6.89331 21.0037 7.99834 21.0037H13.0004\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M12 2.99625V5.9975\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.3186 15.9496L19.5802 17.6373C20.0603 18.2735 20.139 19.1266 19.7835 19.84C19.428 20.5533 18.6995 21.004 17.9025 21.0038V21.0038C17.1044 21.0063 16.3737 20.5565 16.0167 19.8426C15.6597 19.1288 15.738 18.2744 16.2188 17.6373L17.4813 15.9496C17.5808 15.8189 17.7357 15.7422 17.9 15.7422C18.0642 15.7422 18.2191 15.8189 18.3186 15.9496V15.9496Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 74,
+    "Name": "lips-square",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M18.0025 12.3702C14.0059 12.6553 9.99409 12.6553 5.9975 12.3702\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.1829 9.49896C12.8734 9.49896 12.8734 10.0732 12 10.0732C11.1266 10.0732 11.1266 9.49896 9.81709 9.49896C7.63418 9.49896 7.71621 12.071 5.9975 12.3702C7.71221 12.9294 7.71221 15.5015 12 15.5015C16.2878 15.5015 16.2878 12.9294 18.0025 12.3702C16.2878 12.071 16.3658 9.49896 14.1829 9.49896Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99625 7.99834V16.0017C2.99625 18.7642 5.23576 21.0038 7.99833 21.0038H16.0017C18.7642 21.0038 21.0037 18.7642 21.0037 16.0017V7.99834C21.0037 5.23576 18.7642 2.99625 16.0017 2.99625H7.99833C5.23576 2.99625 2.99625 5.23576 2.99625 7.99834Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 75,
+    "Name": "mustache-square",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.99625 7.99834V16.0017C2.99625 18.7642 5.23576 21.0038 7.99833 21.0038H16.0017C18.7642 21.0038 21.0037 18.7642 21.0037 16.0017V7.99834C21.0037 5.23576 18.7642 2.99625 16.0017 2.99625H7.99833C5.23576 2.99625 2.99625 5.23576 2.99625 7.99834Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M5.9975 12.087C8.22643 12.6713 8.6466 9.99917 10.6664 9.99917C11.4668 9.99917 11.4668 10.2993 12 10.2993C12.5332 10.2993 12.5332 9.99917 13.3336 9.99917C15.3534 9.99917 15.7736 12.6713 18.0025 12.087V12.071C18.0025 13.6507 15.3344 16.808 12 13.6507C8.66561 16.808 5.9975 13.6507 5.9975 12.071\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 76,
+    "Name": "cream",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.9426 18.9279L5.07211 13.0574L10.3553 4.89704C11.0365 3.84465 12.1567 3.15637 13.4033 3.02429C14.6499 2.8922 15.8894 3.33047 16.776 4.21676L19.7872 7.22801C20.6735 8.11457 21.1118 9.35412 20.9797 10.6007C20.8476 11.8474 20.1594 12.9675 19.107 13.6487L10.9426 18.9279Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.07209 13.0563L10.9435 18.9277L9.47566 20.3956C8.66499 21.2062 7.35062 21.2062 6.53995 20.3956L3.60423 17.4598C2.79356 16.6492 2.79356 15.3348 3.60423 14.5241L5.07209 13.0563Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 77,
+    "Name": "make-up-mascara",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.99708 13.0004H8.99875C9.55126 13.0004 9.99917 13.4483 9.99917 14.0008V19.0029C9.99917 20.1079 9.10336 21.0038 7.99833 21.0038H5.9975C4.89247 21.0038 3.99667 20.1079 3.99667 19.0029V14.0008C3.99667 13.4483 4.44457 13.0004 4.99708 13.0004Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M6.99792 2.99625V13.0004\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M8.49854 4.49687H5.49729\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M8.49854 9.49896H5.49729\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M8.99875 6.99792H4.99709\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.0017 7.99834H18.0025C19.1075 7.99834 20.0033 8.89414 20.0033 9.99917V20.0033C20.0033 20.5559 19.5554 21.0038 19.0029 21.0038H15.0013C14.4487 21.0038 14.0008 20.5559 14.0008 20.0033V9.99917C14.0008 8.89414 14.8966 7.99834 16.0017 7.99834Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.99917 17.0021H3.99667\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 78,
+    "Name": "make-up-hand-mirror",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.5721 15.8596C18.1242 15.8596 21.0037 12.9801 21.0037 9.42793C21.0037 5.87581 18.1242 2.99625 14.5721 2.99625C11.0199 2.99625 8.14038 5.87581 8.14038 9.42793C8.14038 12.9801 11.0199 15.8596 14.5721 15.8596Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M8.9087 12.4752L3.71254 17.1942C3.28329 17.584 3.02653 18.1284 2.99876 18.7076C2.97099 19.2868 3.17449 19.8533 3.56447 20.2825C3.58848 20.3095 3.61349 20.3355 3.6385 20.3605C4.49249 21.2142 5.8768 21.2142 6.73079 20.3605C6.77381 20.3175 6.81483 20.2735 6.85384 20.2274L11.3117 14.9592\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 79,
+    "Name": "sunscreen",
+    "Category": "Beauty",
+    "Style": "Light",
+    "Type": "Regular",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.7024 11.1937L16.3798 16.4869C16.1572 17.3775 15.357 18.0025 14.439 18.0025H9.56098C8.64258 18.0028 7.84189 17.3779 7.61917 16.4869L6.29762 11.1937C6.09839 10.4004 5.9975 9.58558 5.9975 8.76766V4.99709C5.9975 3.89206 6.8933 2.99625 7.99833 2.99625H16.0017C17.1067 2.99625 18.0025 3.89206 18.0025 4.99709V8.76766C18.0025 9.58558 17.9016 10.4004 17.7024 11.1937V11.1937Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M17.5023 12H6.49771\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M18.0025 6.99792H5.9975\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.49895 18.0025H14.501C15.0536 18.0025 15.5015 18.4504 15.5015 19.0029V19.5031C15.5015 20.3319 14.8296 21.0038 14.0008 21.0038H9.99916C9.17039 21.0038 8.49854 20.3319 8.49854 19.5031V19.0029C8.49854 18.4504 8.94644 18.0025 9.49895 18.0025Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
 }
 ]
