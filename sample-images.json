@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Beach Sunset",
+    "category": "Nature",
+    "url": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?w=1200",
+    "thumb": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?w=400"
+  },
+  {
+    "name": "City Night",
+    "category": "City",
+    "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?w=1200",
+    "thumb": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?w=400"
+  },
+  {
+    "name": "Minimal Poster",
+    "category": "Graphic",
+    "url": "https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/poster-01.png"
+  }
+]
