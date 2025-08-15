@@ -1,7 +1,12 @@
 [
   {
-    "name": "Minimal Poster",
-    "category": "Graphic",
+    "name": "a",
+    "category": "Graphic 01",
     "url": "https://raw.githubusercontent.com/aminebdali1992/json-files/main/poster-01.png"
+  },
+   {
+    "name": "b",
+    "category": "Graphic 02",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/json-files/main/poster-02.png"
   }
 ]
