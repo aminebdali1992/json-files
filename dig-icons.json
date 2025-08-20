@@ -1,0 +1,14 @@
+[
+{
+    "id": 1,
+    "Name": "body-care-cream",
+    "Category": "Beauty",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <rect x=\"4.99707\" y=\"6.99792\" width=\"14.0058\" height=\"4.00167\" rx=\"1.5\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.24884 6.99792C10.3743 6.99792 11.4998 5.87245 11.4998 2.49605C16.0017 2.49605 16.0017 6.99792 16.0017 6.99792\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.49771 10.9996H17.5023C19.1598 10.9996 20.5035 12.3433 20.5035 14.0008V17.0021C20.5035 19.2121 18.7119 21.0038 16.5019 21.0038H7.49813C5.28807 21.0038 3.49646 19.2121 3.49646 17.0021V14.0008C3.49646 12.3433 4.84017 10.9996 6.49771 10.9996Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <rect x=\"7.49811\" y=\"14.501\" width=\"9.00375\" height=\"3.00125\" rx=\"0.833\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+},
+{
+    "id": 2,
+    "Name": "make-up-lipstick-open",
+    "Category": "Beauty",
+    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.99707 10.3823H8.99874C9.55126 10.3823 9.99916 10.8302 9.99916 11.3827V19.0029C9.99916 20.108 9.10335 21.0038 7.99832 21.0038H5.99749C4.89246 21.0038 3.99666 20.108 3.99666 19.0029V11.3827C3.99666 10.8302 4.44456 10.3823 4.99707 10.3823Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M4.99709 10.3823V4.99709C4.99729 4.61826 5.21145 4.27205 5.55032 4.10272L7.55115 3.1023C7.86118 2.94738 8.22931 2.96396 8.52416 3.14612C8.81901 3.32829 8.99857 3.65009 8.99875 3.99667V10.3813\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.0017 12H18.0025C19.1075 12 20.0033 12.8958 20.0033 14.0008V20.0033C20.0033 20.5558 19.5554 21.0037 19.0029 21.0037H15.0012C14.4487 21.0037 14.0008 20.5558 14.0008 20.0033V14.0008C14.0008 12.8958 14.8966 12 16.0017 12Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M9.99916 15.0013H3.99666\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+}
+]
